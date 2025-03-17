@@ -1,0 +1,12 @@
+* {
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+body {
+    background-repeat: no-repeat;
+}
+
+.font {
+    overflow-y: hidden;
+}
